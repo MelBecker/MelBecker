@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Becker-C" height="30"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="right" alt="BMO" height="100" src="Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=736PXmOH9A #Picrew #AmphyPop_Doll_Maker">
+  <img align="right" alt="BMO" height="100" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_9LmrVuAV.png">
 </div>
   
   ##
