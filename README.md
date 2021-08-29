@@ -6,7 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelBecker&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Becker-C" height="30"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eldarya.com.br%2Fforum%2Ft2021%2C6-um-recanto-mal%25C3%25A9fico.htm&psig=AOvVaw1PWT7hojuaSJJOKS_eWSll&ust=1629477203491000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCID6heLBvfICFQAAAAAdAAAAABAe">  <img align="right" alt="gif" height="200" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_mz9f8xqC.png">
+<img align="center" alt="C" height="30"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="right" alt="gif" height="200" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_mz9f8xqC.png">
 </div>
   
   ##
