@@ -1,4 +1,4 @@
-### Olá! Eu sou o Mel Becker
+### Olá! Eu sou  a Mel Becker <3
 
 <div>
   <a href="https://github.com/MelBecker">
