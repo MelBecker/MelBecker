@@ -1,4 +1,4 @@
-### Olá! Eu sou  a Mel Becker <33
+### Olá! Eu sou  a Mel Becker 
 <div>
   <a href="https://github.com/MelBecker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelBecker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
