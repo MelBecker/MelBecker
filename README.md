@@ -1,5 +1,5 @@
 <p align="center">  <strong> Brazilian, 16 years old </strong> </p>
-<p align="center">  <strong> Backend Engineer</strong> </p>
+<p align="center">  <strong> FullStack Developer </strong> </p>
 
 <p align="center"> 
           :black_small_square: 	:black_medium_small_square:
